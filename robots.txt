@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egrikente.github.io/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/app/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/assets/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/css/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/includes/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/item/egrikente.txt.gz
+Sitemap: https://egrikente.github.io/src/egrikente.txt.gz
